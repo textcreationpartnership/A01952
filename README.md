@@ -32,9 +32,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Pleasant quippes for vpstart nevvfangled gentle-vvomen1595Approx. 15 KB of XML-encoded text transcri
+Quippes for Vpstart Newfangled Gentlewomen. 1595
 #####Body#####
-Pleasant quippes for vpstart nevvfangled gentle-vvomen1595Approx. 15 KB of XML-encoded text transcri
+
+1. A Glasse, to viewe the pride of vaineglorious Women.
+
 **Types of content**
 
   * There are 294 **verse** lines!
